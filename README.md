@@ -1,2 +1,2 @@
 # Systems-Scripts
-Systems Team Script
+Systems Team Scripts
